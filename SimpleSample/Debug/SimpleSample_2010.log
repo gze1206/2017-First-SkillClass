@@ -1,0 +1,24 @@
+﻿빌드 시작: 2017-02-04 오후 3:55:21
+     1>2 노드의 "C:\Users\SkillClass\Desktop\SimpleSample\SimpleSample_2010.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IDXUT\Core /IDXUT\Optional /ZI /nologo /W4 /WX- /Od /Oi /Oy- /D WIN32 /D _DEBUG /D DEBUG /D PROFILE /D _WINDOWS /D D3DXFX_LARGEADDRESS_HANDLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /arch:SSE2 /fp:fast /Zc:wchar_t /Zc:forScope /openmp- /Yu"DXUT.h" /Fp"Debug\SimpleSample.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt  cMainGame.cpp
+         cMainGame.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\SkillClass\Desktop\SimpleSample\Debug\SimpleSample.exe" /INCREMENTAL /NOLOGO d3dx10d.lib d3dx9d.lib dxerr.lib dxguid.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\SkillClass\Desktop\SimpleSample\Debug\SimpleSample.pdb" /SUBSYSTEM:WINDOWS /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\SkillClass\Desktop\SimpleSample\Debug\SimpleSample.lib" /MACHINE:X86 /SAFESEH  Debug\SimpleSample.res
+         Debug\cMainGame.obj
+         Debug\DXUT.obj
+         Debug\DXUTenum.obj
+         Debug\DXUTmisc.obj
+         Debug\DXUTcamera.obj
+         Debug\DXUTgui.obj
+         Debug\DXUTres.obj
+         Debug\DXUTsettingsdlg.obj
+         Debug\SDKmesh.obj
+         Debug\SDKmisc.obj
+         Debug\SimpleSample.obj
+         SimpleSample_2010.vcxproj -> C:\Users\SkillClass\Desktop\SimpleSample\Debug\SimpleSample.exe
+     1>"C:\Users\SkillClass\Desktop\SimpleSample\SimpleSample_2010.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.57
